@@ -7,7 +7,7 @@
 # $ 变量取值
 # alias ok="ls -a" 命令别名  unalias ok
 # | 管道 前者输出作为后者输入
-# echo > 创建文本文件
+# echo > 创建文本文件 >>追加
 # pwd 显示当前路径
 # Ctrl+D 输入结束 EOF
 # Ctril+S 暂停屏幕输出
