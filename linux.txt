@@ -1,0 +1,15 @@
+# man 命令名称  查看命令的完整说明
+# 命令名称 --help
+# shutdown -h now 立即关机 = halt
+# whoami 查看用户名
+# ~ 用户主目录
+# # 解释
+# $ 变量取值
+# alias ok="ls -a" 命令别名  unalias ok
+# | 管道 前者输出作为后者输入
+# echo > 创建文本文件
+# pwd 显示当前路径
+# Ctrl+D 输入结束 EOF
+# Ctril+S 暂停屏幕输出
+# Ctrl+Q 恢复屏幕输出
+# Ctrl+U 将命令行整行删除
