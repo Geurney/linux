@@ -14,3 +14,5 @@
 # Ctril+S 暂停屏幕输出
 # Ctrl+Q 恢复屏幕输出
 # Ctrl+U 将命令行整行删除
+# ant build.xml 相当于make和Makefile。ant是基于xml格式的
+# emacs 一种文本编辑器
