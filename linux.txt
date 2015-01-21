@@ -1,4 +1,4 @@
-# man 命令名称  查看命令的完整说明
+﻿# man 命令名称  查看命令的完整说明
 # 命令名称 --help
 # shutdown -h now 立即关机 = halt
 # whoami 查看用户名
@@ -9,10 +9,28 @@
 # | 管道 前者输出作为后者输入
 # echo > 创建文本文件 >>追加
 # pwd 显示当前路径
+# cp -p 复制访问权限和修改时间  -i 覆盖前提示
+# mv -i 覆盖前提示
 # .  使用当前路径  ./ 运行是因为PATH里面没包含/
+# ln a b 硬链接 ln -s a b 软链接
+# more 分页显示
+# less 回卷显示
 # Ctrl+D 输入结束 EOF
 # Ctril+S 暂停屏幕输出
 # Ctrl+Q 恢复屏幕输出
 # Ctrl+U 将命令行整行删除
 # ant build.xml 相当于make和Makefile。ant是基于xml格式的
 # emacs 一种文本编辑器
+# find ./PATH -name linux.txt 查找
+# file 查询文件类型 ./*
+# whatis 查询命令含义
+# which 查询命令路径
+# uname -a 显示计算机信息
+# hostname 显示主机名
+# cal 显示日历
+# date 显示时间
+# wall 'Message' 像所有已登录用户发送信息
+# write 用户账号 终端名称 向用户发送消息
+# uptime 显示系统运行时间
+# last 显示近期用户登录情况
+# grep 'what' 文件 查找文本
